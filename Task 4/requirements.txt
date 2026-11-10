@@ -1,0 +1,7 @@
+fastapi
+unicorn
+pydantic
+transformers
+torch
+pytest
+httpx

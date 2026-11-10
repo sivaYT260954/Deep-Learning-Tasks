@@ -1,0 +1,9 @@
+
+pycache/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env 
+Task 3/distilbert_results/
+Task 4/saved_distilbert/
