@@ -18,7 +18,10 @@ uvicorn main:app --reload
 
 API Documentation
 
-Open the following URL in your browser:
+GET /health
+POST /predict
+
+API Documentation:
 
 http://127.0.0.1:8000/docs
 
